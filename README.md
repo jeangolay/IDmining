@@ -24,10 +24,17 @@ library(IDmining)
 bf <- Butterfly(1000)
 
 require(colorRamps)
+
 require(rgl)
+
 c <- cut(bf$Y,breaks=64)
+
 cols <- matlab.like(64)[as.numeric(c)]
+
 plot3d(bf$X1,bf$X2,bf$Y,col=cols,radius=0.10,type="s",
+
 xlab="",ylab="",zlab="",box=F)
+
 axes3d(lwd=3,cex.axis=3)
+
 grid3d(c("x+","y-","z"),col="black",lwd=1)
