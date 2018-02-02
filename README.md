@@ -4,7 +4,7 @@ by using the concept of Intrinsic Dimension (ID).
 
 Version: 1.0.3 (available on the CRAN repository)
 
-Author: Jean Golay and Mohamed Laib
+Authors: Jean Golay and Mohamed Laib
 
 Maintainer: Jean Golay Jean.Golay@unil.ch
 
