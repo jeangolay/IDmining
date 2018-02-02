@@ -12,6 +12,9 @@ URL: https://CRAN.R-project.org/package=IDmining
 
 License: CC BY-NC-SA 4.0
 
+# The package (version 1.0.3) is available on the CRAN repository. 
+
+# The version on GitHub is a beta version.
 
 # IDmining package installation: from github
 install.packages("devtools")
