@@ -14,8 +14,8 @@ License: CC BY-NC-SA 4.0
 
 
 # IDmining package installation: from github (beta version)
+```{r}
 install.packages("devtools")
-
 devtools::install_github("jeangolay/IDmining")
-
 library(IDmining)
+```
