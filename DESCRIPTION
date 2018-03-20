@@ -2,7 +2,11 @@ Package: IDmining
 Type: Package
 Title: Intrinsic Dimension for Data Mining
 Version: 1.0.3
-Author: Jean Golay and Mohamed Laib
+Authors@R: c(
+  person("Jean","Golay", role=c("aut","cre"), email="Jean.Golay@unil.ch"),
+  person("Mohamed","Laib", role=c("aut"), email="Mohamed.Laib@unil.ch"))
+Author: Jean Golay [aut, cre],
+  Mohamed Laib [aut]
 Maintainer: Jean Golay <Jean.Golay@unil.ch>
 Description: Contains techniques for mining large high-dimensional data sets
     by using the concept of Intrinsic Dimension (ID). Here the ID is
@@ -14,6 +18,7 @@ License: CC BY-NC-SA 4.0
 URL: https://www.sites.google.com/site/jeangolayresearch/
 Encoding: UTF-8
 LazyData: true
+Date: 2018-03-20
 RoxygenNote: 6.0.1
 Note: The authors are grateful to Mikhail Kanevski, Michael Leuenberger,
       Carmen D. Vega Orozco and Fabian Guignard for many fruitful discussions 
