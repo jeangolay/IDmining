@@ -92,16 +92,16 @@ MBFR <- function(XY, scaleQ, m=2, C=NULL) {
      stop('C must be an integer between 1 and the number of input variables')
   }
 
-  X <- as.data.table(apply(XY, MARGIN = 2,
-                     FUN = function(x) (x - min(x))/diff(range(x))))
-  X[X==1] <- 1-0.5/max(scaleQ)
+  XY <- as.data.table(apply(XY, MARGIN = 2,
+                            FUN = function(x) (x - min(x))/diff(range(x))))
+  XY[XY==1] <- 1-0.5/max(scaleQ)
 
-  XsY <- X[,ncol(X),with=F]
-  X   <- X[,1:(ncol(X)-1),with=F]
+  E   <- ncol(XY)
+  XsY <- XY[,E,with=F]
+  X   <- XY[,1:(E-1),with=F]
 
   ID_Y <- round(MINDID_SFS(XsY, scaleQ, m),2)
 
-  E            <- ncol(XY)
   var_name_all <- colnames(X)
   var_order    <- character(C)
   mod_perf     <- matrix(NA,C,3)

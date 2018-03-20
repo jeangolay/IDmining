@@ -12,7 +12,7 @@
 #' @param scaleQ A vector containing the values of \eqn{\ell^{-1}}{l^(-1)}
 #' chosen by the user (see Details).
 #' @param m The value of the parameter m (by default: \code{m=2}).
-#' @param thd Either a single value or a vector. It contains the value(s) of the thresholds.
+#' @param thd Either a single value or a vector. It contains the value(s) of the threshold(s).
 #' @return A \code{vector} containing the value(s) of the m-Morisita slope, \eqn{S_m}{Sm}, for each
 #' threshold value.
 #' @details
