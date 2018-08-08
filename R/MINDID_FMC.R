@@ -103,7 +103,7 @@ MINDID_FMC <- function(XY, scaleQ, m=2, thd){
     stop('thd must be a scalar or a vector of real numbers')
   }
 
-  XY_sc  <- as.data.table(cbind(apply(XY[,1:(ncol(XY)-1)],
+  XY_sc  <- as.data.table(cbind(apply(XY[,1:(ncol(XY)-1),drop=F],
                                       MARGIN = 2, FUN = function(XY)
                                         (XY - min(XY))/diff(range(XY))),
                                 XY[,ncol(XY),drop=F]))
