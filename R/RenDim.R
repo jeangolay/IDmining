@@ -32,7 +32,7 @@
 #' @author Jean Golay \email{Jean.Golay@@unil.ch}
 #' @references
 #' C. Traina Jr., A. J. M. Traina, L. Wu and C. Faloutsos (2000).
-#' \href{http://repository.cmu.edu/cgi/viewcontent.cgi?article=1572&context=compsci}{Fast feature
+#' \href{https://pdfs.semanticscholar.org/6205/f55544b7409bf4b356a263d187e8b503298c.pdf}{Fast feature
 #' selection using fractal dimension}. Proceedings of the 15th Brazilian Symposium
 #' on Databases (SBBD 2000), João Pessoa (Brazil).
 #'
