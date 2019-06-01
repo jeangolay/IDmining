@@ -5,7 +5,7 @@
 #' @param N The number of points to be generated (by default: \code{N = 10000}).
 #' @return A \eqn{N \times 9}{N x 9} \code{data.frame}. The first eight columns are the input variables,
 #' and the last one is the output (or target) variable \eqn{Y}.
-#' @author Jean Golay \email{Jean.Golay@@unil.ch}
+#' @author Jean Golay \email{jeangolay@@gmail.com}
 #' @references J. Golay, M. Leuenberger and M. Kanevski (2016). Feature selection for regression problems based
 #' on the Morisita estimator of intrinsic dimension,
 #' \href{http://www.sciencedirect.com/science/article/pii/S0031320317301905}{Pattern Recognition 70:126–138}.

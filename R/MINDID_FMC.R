@@ -27,7 +27,7 @@
 #' \item \eqn{\ell^{-1}}{l^(-1)} is directly related to \eqn{\delta}{delta} (see References).
 #' \item \eqn{\delta}{delta} is the diagonal length of the grid cells.
 #' }
-#' @author Jean Golay \email{Jean.Golay@@unil.ch}
+#' @author Jean Golay \email{jeangolay@@gmail.com}
 #' @references
 #' J. Golay, M. Kanevski, C. D. Vega Orozco and M. Leuenberger (2014).
 #' The multipoint Morisita index for the analysis of spatial patterns,

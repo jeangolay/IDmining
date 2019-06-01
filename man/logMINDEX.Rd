@@ -63,5 +63,5 @@ based on the multipoint Morisita index,
 \href{http://www.sciencedirect.com/science/article/pii/S0031320315002320}{Pattern Recognition 48 (12):4070–4081}.
 }
 \author{
-Jean Golay \email{Jean.Golay@unil.ch}
+Jean Golay \email{jeangolay@gmail.com}
 }

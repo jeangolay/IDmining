@@ -81,5 +81,5 @@ regression problems}.Proceedings of the 23rd European Symposium on Artificial Ne
 Intelligence and Machine Learning (ESANN), Bruges (Belgium).
 }
 \author{
-Jean Golay \email{Jean.Golay@unil.ch}
+Jean Golay \email{jeangolay@gmail.com}
 }

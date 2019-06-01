@@ -29,7 +29,7 @@
 #' \item \eqn{\ell^{-1}}{l^(-1)} is directly related to \eqn{\delta}{delta} (see References).
 #' \item \eqn{\delta}{delta} is the diagonal length of the grid cells.
 #' }
-#' @author Jean Golay \email{Jean.Golay@@unil.ch}
+#' @author Jean Golay \email{jeangolay@@gmail.com}
 #' @references
 #' C. Traina Jr., A. J. M. Traina, L. Wu and C. Faloutsos (2000).
 #' \href{https://pdfs.semanticscholar.org/6205/f55544b7409bf4b356a263d187e8b503298c.pdf}{Fast feature

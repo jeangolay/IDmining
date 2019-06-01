@@ -17,8 +17,8 @@
 #' Machine Learning (ESANN), Bruges (Belgium).
 #'
 #' @author
-#' Jean Golay \email{Jean.Golay@@unil.ch} and
-#' Mohamed Laib \email{Mohamed.Laib@@unil.ch},
+#' Jean Golay \email{jeangolay@@gmail.com} and
+#' Mohamed Laib \email{laib.med@@gmail.com},
 #'
-#' Maintainer: Jean Golay \email{Jean.Golay@@unil.ch}
+#' Maintainer: Jean Golay \email{jeangolay@@gmail.com}
 "_PACKAGE"

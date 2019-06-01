@@ -6,11 +6,11 @@
 \alias{IDmining-package}
 \title{IDmining: Intrinsic Dimension for Data Mining}
 \description{
-Contains techniques for mining large high-dimensional data sets
-by using the concept of Intrinsic Dimension (ID). Here the ID is
-not necessarily integer. It is extended to fractal dimensions. And
-the Morisita estimator is used for the ID estimation, but other
-tools are included as well.
+Contains techniques for mining large and high-dimensional data
+    sets by using the concept of Intrinsic Dimension (ID). Here the ID is
+    not necessarily an integer. It is extended to fractal dimensions. And
+    the Morisita estimator is used for the ID estimation, but other
+    tools are included as well.
 }
 \references{
 J. Golay and M. Kanevski (2015). A new estimator of intrinsic dimension
@@ -38,8 +38,8 @@ Useful links:
 
 }
 \author{
-Jean Golay \email{Jean.Golay@unil.ch} and
-Mohamed Laib \email{Mohamed.Laib@unil.ch},
+Jean Golay \email{jeangolay@gmail.com} and
+Mohamed Laib \email{laib.med@gmail.com},
 
-Maintainer: Jean Golay \email{Jean.Golay@unil.ch}
+Maintainer: Jean Golay \email{jeangolay@gmail.com}
 }

@@ -55,7 +55,7 @@ print(paste("The ID estimate is equal to",round(qRI_ID[[1]][1,2],2)))
 }
 \references{
 C. Traina Jr., A. J. M. Traina, L. Wu and C. Faloutsos (2000).
-\href{http://repository.cmu.edu/cgi/viewcontent.cgi?article=1572&context=compsci}{Fast feature
+\href{https://pdfs.semanticscholar.org/6205/f55544b7409bf4b356a263d187e8b503298c.pdf}{Fast feature
 selection using fractal dimension}. Proceedings of the 15th Brazilian Symposium
 on Databases (SBBD 2000), João Pessoa (Brazil).
 
@@ -73,5 +73,5 @@ dimensions of fractals and strange attractors,
 \href{http://www.sciencedirect.com/science/article/pii/016727898390235X}{Physica D 8(3):435-444}.
 }
 \author{
-Jean Golay \email{Jean.Golay@unil.ch}
+Jean Golay \email{jeangolay@gmail.com}
 }

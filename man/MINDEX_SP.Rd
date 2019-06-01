@@ -94,5 +94,5 @@ by means of the joint use of Allan Factor and Morisita index,
 \href{http://link.springer.com/article/10.1007/s00477-015-1030-8}{Stochastic Environmental Research and Risk Assessment 30(1):77-90}.
 }
 \author{
-Jean Golay \email{Jean.Golay@unil.ch}
+Jean Golay \email{jeangolay@gmail.com}
 }

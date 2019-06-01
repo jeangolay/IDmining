@@ -81,5 +81,5 @@ Morisita estimator of intrinsic dimension,
 \href{http://www.sciencedirect.com/science/article/pii/S0950705117303659}{Knowledge-Based Systems 135:125-134}.
 }
 \author{
-Jean Golay \email{Jean.Golay@unil.ch}
+Jean Golay \email{jeangolay@gmail.com}
 }

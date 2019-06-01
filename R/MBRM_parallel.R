@@ -39,7 +39,7 @@
 #'  multipoint Morisita index to the \eqn{\log}{log} values of \eqn{\delta}{delta} (or,
 #'  equivalently, to the \eqn{\log}{log} values of \eqn{\ell^{-1}}{l^(-1)}) (see \code{logMINDEX}).
 #' }
-#' @author Jean Golay \email{Jean.Golay@@unil.ch}
+#' @author Jean Golay \email{jeangolay@@gmail.com}
 #' @examples
 #' bf <- Butterfly(10000)
 #'

@@ -20,7 +20,7 @@ chosen by the user (see Details).}
 
 \item{m}{The value of the parameter m (by default: \code{m=2}).}
 
-\item{thd}{Either a single value or a vector. It contains the value(s) of the thresholds.}
+\item{thd}{Either a single value or a vector. It contains the value(s) of the threshold(s).}
 }
 \value{
 A \code{vector} containing the value(s) of the m-Morisita slope, \eqn{S_m}{Sm}, for each
@@ -66,7 +66,7 @@ matplot(1:10,Sm_thd_shuf,type="l",lty=1,col=rgb(1,0,0,0.25),
         ylim=c(-0.05,0.05),ylab=bquote(S[.(m)]),xaxt="n",
         xlab="",cex.lab=1.2)
 axis(1,1:10,labels = FALSE)
-text(1:10,par("usr")[3.25]-0.01,srt=45,ad=1,
+text(1:10,par("usr")[3]-0.01,srt=45,ad=1,
      labels=c("0_100", "10_100","20_100","30_100",
               "40_100","50_100","60_100",
               "70_100","80_100","90_100"),xpd=T,font=2,cex=1)
@@ -94,5 +94,5 @@ L. Telesca, J. Golay and M. Kanevski (2015). Morisita-based space-clustering ana
 \href{http://www.sciencedirect.com/science/article/pii/S0378437114008425}{Physica A 419:40–47}.
 }
 \author{
-Jean Golay \email{Jean.Golay@unil.ch}
+Jean Golay \email{jeangolay@gmail.com}
 }

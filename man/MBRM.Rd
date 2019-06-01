@@ -54,6 +54,7 @@ Executes the MBRM algorithm for unsupervised feature selection.
 }
 }
 \examples{
+\dontrun{
 bf <- Butterfly(10000)
 
 bf_select <- MBRM(bf[,-9], 5:25)
@@ -67,11 +68,12 @@ axis(1,1:length(var_order),labels=var_order)
 mtext(1,text="Added Features (from left to right)",line=2.5,cex=1)
 mtext(2,text="Estimated ID",line=2.5,cex=1)
 }
+}
 \references{
 J. Golay and M. Kanevski (2017). Unsupervised feature selection based on the
 Morisita estimator of intrinsic dimension,
 \href{http://www.sciencedirect.com/science/article/pii/S0950705117303659}{Knowledge-Based Systems 135:125-134}.
 }
 \author{
-Jean Golay \email{Jean.Golay@unil.ch}
+Jean Golay \email{jeangolay@gmail.com}
 }

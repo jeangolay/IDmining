@@ -38,5 +38,5 @@ on the Morisita estimator of intrinsic dimension,
 \href{http://www.sciencedirect.com/science/article/pii/S0031320317301905}{Pattern Recognition 70:126–138}.
 }
 \author{
-Jean Golay \email{Jean.Golay@unil.ch}
+Jean Golay \email{jeangolay@gmail.com}
 }
