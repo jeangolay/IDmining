@@ -6,7 +6,7 @@ Version: 1.0.6 (available on the CRAN repository)
 
 Authors: Jean Golay and Mohamed Laib
 
-Maintainer: Jean Golay Jean.Golay@unil.ch
+Maintainer: Jean Golay jeangolay@gmail.com
 
 URL: https://CRAN.R-project.org/package=IDmining
 
