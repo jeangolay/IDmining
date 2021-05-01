@@ -2,7 +2,7 @@
 Contains techniques for mining large and high-dimensional
 data sets by using the concept of Intrinsic Dimension (ID).
 
-Version: 1.0.6 (available on the CRAN repository)
+Version: 1.0.7 (available on the CRAN repository)
 
 Authors: Jean Golay and Mohamed Laib
 
