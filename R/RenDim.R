@@ -32,22 +32,22 @@
 #' @author Jean Golay \email{jeangolay@@gmail.com}
 #' @references
 #' C. Traina Jr., A. J. M. Traina, L. Wu and C. Faloutsos (2000).
-#' \href{https://pdfs.semanticscholar.org/6205/f55544b7409bf4b356a263d187e8b503298c.pdf}{Fast feature
+#' \href{https://periodicos.ufmg.br/index.php/jidm/article/view/4}{Fast feature
 #' selection using fractal dimension}. Proceedings of the 15th Brazilian Symposium
 #' on Databases (SBBD 2000), João Pessoa (Brazil).
 #'
 #' E. P. M. De Sousa, C. Traina Jr., A. J. M. Traina, L. Wu and C. Faloutsos (2007). A fast and
 #' effective method to find correlations among attributes in databases,
-#' \href{http://link.springer.com/article/10.1007/s10618-006-0056-4}{Data Mining and
+#' \href{https://link.springer.com/article/10.1007/s10618-006-0056-4}{Data Mining and
 #' Knowledge Discovery 14(3):367-407}.
 #'
 #' J. Golay and M. Kanevski (2015). A new estimator of intrinsic dimension
 #' based on the multipoint Morisita index,
-#' \href{http://www.sciencedirect.com/science/article/pii/S0031320315002320}{Pattern Recognition 48 (12):4070–4081}.
+#' \href{https://www.sciencedirect.com/science/article/pii/S0031320315002320}{Pattern Recognition 48 (12):4070–4081}.
 #'
 #' H. Hentschel and I. Procaccia (1983). The infinite number of generalized
 #' dimensions of fractals and strange attractors,
-#' \href{http://www.sciencedirect.com/science/article/pii/016727898390235X}{Physica D 8(3):435-444}.
+#' \href{https://www.sciencedirect.com/science/article/pii/016727898390235X}{Physica D 8(3):435-444}.
 #' @examples
 #' sim_dat <- SwissRoll(1000)
 #'

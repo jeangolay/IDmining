@@ -62,6 +62,7 @@ bf_select <- MBRM_parallel(bf[,-9], 5:25, ncores=2)
 var_order <- bf_select[[2]]
 var_perf  <- bf_select[[3]]
 
+\dontrun{
 dev.new(width=5, height=4)
 plot(var_perf,type="b",pch=16,lwd=2,xaxt="n",xlab="", ylab="",
      col="red",ylim=c(0,max(var_perf)),panel.first={grid(lwd=1.5)})
@@ -69,7 +70,6 @@ axis(1,1:length(var_order),labels=var_order)
 mtext(1,text="Added Features (from left to right)",line=2.5,cex=1)
 mtext(2,text="Estimated ID",line=2.5,cex=1)
 
-\dontrun{
 bf_large <- Butterfly(10^5)
 system.time(MBRM(bf_large[,-9], 5:25))
 system.time(MBRM_parallel(bf_large[,-9], 5:25))
@@ -78,7 +78,7 @@ system.time(MBRM_parallel(bf_large[,-9], 5:25))
 \references{
 J. Golay and M. Kanevski (2017). Unsupervised feature selection based on the
 Morisita estimator of intrinsic dimension,
-\href{http://www.sciencedirect.com/science/article/pii/S0950705117303659}{Knowledge-Based Systems 135:125-134}.
+\href{https://www.sciencedirect.com/science/article/pii/S0950705117303659}{Knowledge-Based Systems 135:125-134}.
 }
 \author{
 Jean Golay \email{jeangolay@gmail.com}

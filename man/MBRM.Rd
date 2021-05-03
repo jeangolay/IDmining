@@ -72,7 +72,7 @@ mtext(2,text="Estimated ID",line=2.5,cex=1)
 \references{
 J. Golay and M. Kanevski (2017). Unsupervised feature selection based on the
 Morisita estimator of intrinsic dimension,
-\href{http://www.sciencedirect.com/science/article/pii/S0950705117303659}{Knowledge-Based Systems 135:125-134}.
+\href{https://www.sciencedirect.com/science/article/pii/S0950705117303659}{Knowledge-Based Systems 135:125-134}.
 }
 \author{
 Jean Golay \email{jeangolay@gmail.com}

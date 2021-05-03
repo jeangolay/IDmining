@@ -84,14 +84,14 @@ mMI_s <- MINDEX_SP(sim_dat[,c(1,2)], scaleQ, m, 5, xlim_s, ylim_s)
 \references{
 J. Golay, M. Kanevski, C. D. Vega Orozco and M. Leuenberger (2014).
 The multipoint Morisita index for the analysis of spatial patterns,
-\href{http://www.sciencedirect.com/science/article/pii/S0378437114002659}{Physica A 406:191–202}.
+\href{https://www.sciencedirect.com/science/article/pii/S0378437114002659}{Physica A 406:191–202}.
 
 L. Telesca, J. Golay and M. Kanevski (2015). Morisita-based space-clustering analysis of Swiss seismicity,
-\href{http://www.sciencedirect.com/science/article/pii/S0378437114008425}{Physica A 419:40–47}.
+\href{https://www.sciencedirect.com/science/article/pii/S0378437114008425}{Physica A 419:40–47}.
 
 L. Telesca, M. Lovallo, J. Golay and M. Kanevski (2016). Comparing seismicity declustering techniques
 by means of the joint use of Allan Factor and Morisita index,
-\href{http://link.springer.com/article/10.1007/s00477-015-1030-8}{Stochastic Environmental Research and Risk Assessment 30(1):77-90}.
+\href{https://link.springer.com/article/10.1007/s00477-015-1030-8}{Stochastic Environmental Research and Risk Assessment 30(1):77-90}.
 }
 \author{
 Jean Golay \email{jeangolay@gmail.com}

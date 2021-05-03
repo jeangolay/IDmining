@@ -79,7 +79,7 @@ system.time(MBFR_parallel(bf_large, 5:25))
 \references{
 J. Golay, M. Leuenberger and M. Kanevski (2017). Feature selection for regression problems based
 on the Morisita estimator of intrinsic dimension,
-\href{http://www.sciencedirect.com/science/article/pii/S0031320317301905}{Pattern Recognition 70:126–138}.
+\href{https://www.sciencedirect.com/science/article/pii/S0031320317301905}{Pattern Recognition 70:126–138}.
 
 J. Golay, M. Leuenberger and M. Kanevski (2015).
 \href{https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-41.pdf}{Morisita-based feature selection for

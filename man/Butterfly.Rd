@@ -35,7 +35,7 @@ grid3d(c("x+","y-","z"),col="black",lwd=1)
 \references{
 J. Golay, M. Leuenberger and M. Kanevski (2016). Feature selection for regression problems based
 on the Morisita estimator of intrinsic dimension,
-\href{http://www.sciencedirect.com/science/article/pii/S0031320317301905}{Pattern Recognition 70:126–138}.
+\href{https://www.sciencedirect.com/science/article/pii/S0031320317301905}{Pattern Recognition 70:126–138}.
 }
 \author{
 Jean Golay \email{jeangolay@gmail.com}

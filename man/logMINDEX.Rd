@@ -60,7 +60,7 @@ title(ylab = expression(paste("log(",I['2,'*delta],")")), cex.lab = 1.5,line = 2
 \references{
 J. Golay and M. Kanevski (2015). A new estimator of intrinsic dimension
 based on the multipoint Morisita index,
-\href{http://www.sciencedirect.com/science/article/pii/S0031320315002320}{Pattern Recognition 48 (12):4070–4081}.
+\href{https://www.sciencedirect.com/science/article/pii/S0031320315002320}{Pattern Recognition 48 (12):4070–4081}.
 }
 \author{
 Jean Golay \email{jeangolay@gmail.com}

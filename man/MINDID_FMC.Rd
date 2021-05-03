@@ -84,14 +84,14 @@ legend("topleft",legend=legend.text,pch=legend.pch,lwd=legend.lwd,
 \references{
 J. Golay, M. Kanevski, C. D. Vega Orozco and M. Leuenberger (2014).
 The multipoint Morisita index for the analysis of spatial patterns,
-\href{http://www.sciencedirect.com/science/article/pii/S0378437114002659}{Physica A 406:191–202}.
+\href{https://www.sciencedirect.com/science/article/pii/S0378437114002659}{Physica A 406:191–202}.
 
 J. Golay and M. Kanevski (2015). A new estimator of intrinsic dimension
 based on the multipoint Morisita index,
-\href{http://www.sciencedirect.com/science/article/pii/S0031320315002320}{Pattern Recognition 48 (12):4070–4081}.
+\href{https://www.sciencedirect.com/science/article/pii/S0031320315002320}{Pattern Recognition 48 (12):4070–4081}.
 
 L. Telesca, J. Golay and M. Kanevski (2015). Morisita-based space-clustering analysis of Swiss seismicity,
-\href{http://www.sciencedirect.com/science/article/pii/S0378437114008425}{Physica A 419:40–47}.
+\href{https://www.sciencedirect.com/science/article/pii/S0378437114008425}{Physica A 419:40–47}.
 }
 \author{
 Jean Golay \email{jeangolay@gmail.com}
